@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReX App</string>
+    <string name="homePage">主页</string>
+    <string name="profilePage">我的</string>
+    <string name="homeTitleText">主页</string>
+    <string name="forumsTitleText">论坛</string>
+    <string name="profileTitleText">我的</string>
+</resources>

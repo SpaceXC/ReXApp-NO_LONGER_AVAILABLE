@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReX App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homePage">Home</string>
+    <string name="profilePage">Profiles</string>
+    <string name="homeTitleText">Home</string>
+    <string name="forumsTitleText">Forums</string>
+    <string name="profileTitleText">Profile</string>
+</resources>
